@@ -13,3 +13,6 @@
 
 - **The Mathematics of Love.** Date and dump n/e times. Credit: Hannah Fry TED Talk
 https://www.ted.com/talks/hannah_fry_the_mathematics_of_love?language=en
+
+- **Tensor Trust.** I'll Venmo you if you can crack my defense. Credit: UC Berkeley
+https://tensortrust.ai/
