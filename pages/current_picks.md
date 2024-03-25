@@ -1,4 +1,4 @@
-# 📚 Current Picks
+# 📚 Current Picks (media I'm consuming)
 - **Claude being based and fedorapilled, unprompted.** Take my gold, kind stranger. Credit: https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-1710992959-txt
 [**View PDF**](./pdfs/claudewearsafedora.pdf)
 

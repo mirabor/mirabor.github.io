@@ -106,7 +106,7 @@ Right aligned columns
 
 [link text](https://mirabor.github.io/)
 
-[link with title](https://github.com/noworneverev/react-vscode-portfolio "title text!")
+[link with title](https://mirabor.github.io "title text!")
 
 ## Alerts
 ::: warning

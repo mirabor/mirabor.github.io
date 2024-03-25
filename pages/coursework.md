@@ -1,2 +1,2 @@
-# 🙇🏻‍♀️ Coursework
-- Certified Public Accountant (Taiwan)
+# 🙇🏻‍♀️ Coursework (Selected)
+- 
