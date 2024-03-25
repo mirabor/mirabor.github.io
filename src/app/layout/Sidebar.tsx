@@ -3,7 +3,6 @@ import { Box, Link, Paper, Tooltip } from "@mui/material";
 import LightModeOutlinedIcon from "@mui/icons-material/LightModeOutlined";
 import DarkModeOutlinedIcon from "@mui/icons-material/DarkModeOutlined";
 import { VscFiles, VscSettingsGear } from "react-icons/vsc";
-import { BiGitBranch } from "react-icons/bi";
 import Divider from "@mui/material/Divider";
 import { links } from "../pages/links";
 import { useNavigate } from "react-router-dom";
@@ -72,34 +71,6 @@ export default function Sidebar({
             <VscFiles />
           </Box>
         </Box>
-        <Tooltip title="Source of this project" arrow placement="right">
-          <Link
-            target="_blank"
-            href={"https://github.com/noworneverev/react-vscode-portfolio"}
-            underline="none"
-            color="inherit"
-            sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
-          >
-            <Box
-              sx={{
-                flexGrow: 0,
-                cursor: "pointer",
-                color: "#858585",
-                fontSize: 24,
-                "&:hover": {
-                  color: "white",
-                },
-              }}
-              display="flex"
-              justifyContent="center"
-            >
-              <Box mt={0.7}>
-                <BiGitBranch />
-              </Box>
-            </Box>
-          </Link>
-        </Tooltip>
-
         <Divider sx={{ m: 0.5 }} />
 
         {links.map((link) => (
