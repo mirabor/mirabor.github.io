@@ -1,5 +1,5 @@
 # 📚 Current Picks (_media I'm consuming_)
-- **Claude being based and fedorapilled, unprompted.** pov claude is a kind stranger
+- **Claude being based and fedorapilled, unprompted.** take my upvote
 Credit: https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-1710992959-txt
 [**View PDF**](./pdfs/claudewearsafedora.pdf)
 
