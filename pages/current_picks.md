@@ -1,18 +1,24 @@
 # 📚 Current Picks (_media I'm consuming_)
-- **Claude being based and fedorapilled, unprompted.** Take my gold, kind stranger. Credit: https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-1710992959-txt
+- **Claude being based and fedorapilled, unprompted.** pov claude is a kind stranger
+Credit: https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-1710992959-txt
 [**View PDF**](./pdfs/claudewearsafedora.pdf)
 
-- **Dating for CS Majors, chapters 1 and 4.** Must-read if you recognize this site's format. Credit: Viridity Capital LLC
+- **Dating for CS Majors, chapters 1 and 4.** must-read if u recognize this site's format
+Credit: Viridity Capital LLC
 [**View PDF**](./pdfs/DatingForCSMajors.pdf)
 
-- **Scribe AI.** Essay that's not an essay about two AIs dating. Credit: Robert Cunningham
+- **Scribe AI.** this could be us but u playin
+Credit: Robert Cunningham
 [**View PDF**](./pdfs/Scribe_AI.pdf)
 
-- **Not Just a Preference: Biased Decision-making on Dating Websites.** Firsthand research is key. Credit: Zilin Ma and Krzysztof Z. Gajos
+- **Not Just a Preference: Biased Decision-making on Dating Websites.** if u saw me on hinge that was for research
+Credit: Zilin Ma and Krzysztof Z. Gajos
 [**View PDF**](./pdfs/ma2022preference.pdf)
 
-- **The Mathematics of Love.** Date and dump n/e times. Credit: Hannah Fry TED Talk
+- **The Mathematics of Love.** sorry babe it's not u it's n/e
+Credit: Hannah Fry TED Talk
 https://www.ted.com/talks/hannah_fry_the_mathematics_of_love?language=en
 
-- **Tensor Trust.** I'll Venmo you if you can crack my defense. Credit: UC Berkeley
+- **Tensor Trust.** i'll venmo u if u crack my defense
+Credit: UC Berkeley
 https://tensortrust.ai/
