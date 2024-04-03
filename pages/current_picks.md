@@ -22,3 +22,12 @@ https://www.ted.com/talks/hannah_fry_the_mathematics_of_love?language=en
 - **Tensor Trust.** i'll venmo u if u crack my defense
 Credit: UC Berkeley
 https://tensortrust.ai/
+
+- **Does anyone have the right to sex?** sex positivity actually bad. also online dating bad.
+Credit: Amia Srinivasan
+[**View PDF**](./pdfs/AmiaSrinivasan.pdf)
+
+- **Romance and Social Bonding in Contemporary Culture, chapter 1** is sex an issue of distributive justice? + femcels, tradwives, and illegible rage
+Credit: Jilly Boyce Kay
+[**View PDF**](./pdfs/Harrod2021.pdf)
+
