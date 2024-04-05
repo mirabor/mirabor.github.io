@@ -7,15 +7,15 @@ Credit: https://dreams-of-an-electric-mind.webflow.io/dreams/conversation-171099
 Credit: Viridity Capital LLC
 [**View PDF**](./pdfs/DatingForCSMajors.pdf)
 
-- **Scribe AI.** this could be us but u playin
+- **Scribe AI.** me and who? (neither; it's two AI models)
 Credit: Robert Cunningham
 [**View PDF**](./pdfs/Scribe_AI.pdf)
 
-- **Not Just a Preference: Biased Decision-making on Dating Websites.** if u saw me on hinge that was for research
+- **Not Just a Preference: Biased Decision-making on Dating Websites.** if i was seen on hinge that was for research
 Credit: Zilin Ma and Krzysztof Z. Gajos
 [**View PDF**](./pdfs/ma2022preference.pdf)
 
-- **The Mathematics of Love.** sorry babe it's not u it's n/e
+- **The Mathematics of Love.** it's not u it's n/e
 Credit: Hannah Fry TED Talk
 https://www.ted.com/talks/hannah_fry_the_mathematics_of_love?language=en
 
@@ -27,7 +27,7 @@ https://tensortrust.ai/
 Credit: Amia Srinivasan
 [**View PDF**](./pdfs/AmiaSrinivasan.pdf)
 
-- **Romance and Social Bonding in Contemporary Culture, Chapter 1** is sex an issue of distributive justice? + femcels, tradwives, and illegible rage
+- **Romance and Social Bonding in Contemporary Culture, Chapter 1.** is sex an issue of distributive justice? + femcels, tradwives, and illegible rage
 Credit: Jilly Boyce Kay
 [**View PDF**](./pdfs/Harrod2021.pdf)
 
